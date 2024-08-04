@@ -1,0 +1,15 @@
+{
+    "name": "refaltor/easy-dolibarr-laravel",
+    "description": "Package for easy api interact with dolibarr",
+    "autoload": {
+        "psr-4": {
+            "Refaltor\\EasyDolibarrLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Refaltor"
+        }
+    ],
+    "require": {}
+}
